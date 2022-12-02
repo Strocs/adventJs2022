@@ -1,0 +1,13 @@
+{
+  "name": "codember-by-strocs",
+  "version": "1.0.0",
+  "description": "Solutions for the challenges from https://codember.dev/ by midudev",
+  "type": "module",
+  "scripts": {
+    "01": "node challenge01",
+    "02": "node challenge02",
+    "03": "node challenge03"
+  },
+  "author": "Ignacio Molina P.",
+  "license": "MIT"
+}
