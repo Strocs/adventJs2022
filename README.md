@@ -10,9 +10,10 @@
 # Estructura del repositorio 📏
 Cada día iré sumando una nueva carpeta con la descripción del desafío y el archivo con la solución.  
 
-|Challenge|[ - ]|
-|---------|--|
-| 🎁 01:|[✔️]|
+|Challenge|[ - ]|Puntaje|
+|---------|--|----|
+| 🎁 Reto 01:|[✔️]|131|
+| 🕥 Reto 02:|[✔️]|131|
 
 
 ```
