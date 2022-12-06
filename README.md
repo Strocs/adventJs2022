@@ -15,6 +15,7 @@ Cada día iré sumando una nueva carpeta con la descripción del desafío y el a
 | 🎁 Reto 01:|[✔️]|131|
 | 🕥 Reto 02:|[✔️]|131|
 | 🏋️ Reto 03:|[✔️]|135|
+| 🗳️ Reto 04:|[✔️]|143|
 
 
 ```
@@ -28,6 +29,9 @@ Cada día iré sumando una nueva carpeta con la descripción del desafío y el a
 │  └── index.js
 ├── Reto#03
 │  ├── Reto03.md
+│  └── index.js
+├── Reto#04
+│  ├── Reto04.md
 │  └── index.js
 ├── package.json
 └── README.md

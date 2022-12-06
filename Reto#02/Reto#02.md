@@ -7,7 +7,7 @@ Obviamente la gente que trabaja en la empresa no le ha hecho ni pizca de gracia 
 Al ser trabajo de oficina, su horario laboral es `de lunes a viernes`. Así que sólo tienes que preocuparte de los días festivos que caen en esos días.
 
 Dado un año y un array con las fechas de los días festivos, devuelve el número de horas extra que se harían ese año:
-```
+```js
 const year = 2022
 const holidays = ['01/06', '04/01', '12/25'] // formato MM/DD
 
