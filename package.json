@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "01": "node Reto#01",
-    "02": "node Reto#02"
+    "02": "node Reto#02",
+    "03": "node Reto#03"
   },
   "author": "Ignacio Molina P.",
   "license": "MIT"
