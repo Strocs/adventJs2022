@@ -6,19 +6,25 @@
 
 Échale un vistazo! es una página creada por el gran [Midudev](https://twitter.com/midudev) ❤️
 
+
+&nbsp;
+# Progreso 📅
+|Challenge|[ - ]|Puntaje|Dificultad|
+|---------|--|----|-----|
+| 🎁 Reto 01:|[✔️]|131| Fácil
+| 🕥 Reto 02:|[✔️]|131| Fácil
+| 🏋️ Reto 03:|[✔️]|135| Fácil
+| 🗳️ Reto 04:|[✔️]|143| Medio
+| 🛷 Reto 05:|[❌]|---| Difícil
+| 📦 Reto 06:|[✔️]|160| Medio
+
+
 &nbsp;
 # Estructura del repositorio 📏
 Cada día iré sumando una nueva carpeta con la descripción del desafío y el archivo con la solución.  
 
-|Challenge|[ - ]|Puntaje|
-|---------|--|----|
-| 🎁 Reto 01:|[✔️]|131|
-| 🕥 Reto 02:|[✔️]|131|
-| 🏋️ Reto 03:|[✔️]|135|
-| 🗳️ Reto 04:|[✔️]|143|
 
-
-```
+```py
 .
 │
 ├── Reto#01
@@ -32,6 +38,12 @@ Cada día iré sumando una nueva carpeta con la descripción del desafío y el a
 │  └── index.js
 ├── Reto#04
 │  ├── Reto04.md
+│  └── index.js
+├── Reto#05
+│  ├── Reto05.md
+│  └── index.js
+├── Reto#06
+│  ├── Reto06.md
 │  └── index.js
 ├── package.json
 └── README.md

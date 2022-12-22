@@ -8,4 +8,4 @@ function wrapping(gifts) {
   )
 }
 
-console.log(wrapping(gifts))
+console.log(wrapping(gifts)[2])
